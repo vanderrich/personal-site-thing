@@ -5,7 +5,7 @@ import { RouterLink } from "vue-router";
 <template>
     <div class="centerChilds">
     <div id="home">
-        <img width="200" length="200" src="./baked potat.png" class="pfp">
+        <img width="200" length="200" src="@\assets\images\baked_potat.png" class="pfp">
         <h1>vanderrich#9982</h1>
         <p>Your local Indonesian nerd/idiot</p>
         <div id="socialMedias" class="centerChilds">
@@ -22,4 +22,3 @@ import { RouterLink } from "vue-router";
     </div>
     </div>
 </template>
-<style src="../assets/base.css"></style>
