@@ -6,4 +6,4 @@ import { RouterView } from "vue-router";
     <RouterView />
 </template>
 
-<style src="../assets/base.css"></style>
+<style src="./assets/base.css"></style>
