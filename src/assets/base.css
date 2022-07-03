@@ -29,14 +29,35 @@ body {
 
 .socialMedia-discord {
     height: 55px;
-    background-image: url("../assets/doscord.svg");
+    background-image: url("./doscord.svg");
 }
 
 .socialMedia-github {
-    background-image: url("../assets/guthib.svg");
+    background-image: url("./guthib.svg");
 }
 
 .socialMedia-twitter {
     width: 60px;
-    background-image: url("../assets/blue bird thing.svg");
+    background-image: url("./blue bird thing.svg");
+    }
+    
+    #socialMedias {
+        padding: 5px 0px;
+    }
+    
+    .thicc {
+        height: 1000px;
+    }
+    
+    #things a {
+        padding: 10px;
+        border-style: solid;
+        border-width: 1.5px;
+        border-radius: 10px;
+        text-decoration: none;
+    }
+    
+    #things a:hover {
+        background-color: white;
+        color: #36393F;
 }
