@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
+
+.centerChilds {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    background-color: #36393F;
+}
+
+* {
+    color: aliceblue;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.socialMedia {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+}
+
+.socialMedia:hover,
+.socialMedia:focus {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(2%) saturate(822%) hue-rotate(253deg) brightness(119%) contrast(100%);
+}
+
+.socialMedia-discord {
+    height: 55px;
+    background-image: url("../assets/doscord.svg");
+}
+
+.socialMedia-github {
+    background-image: url("../assets/guthib.svg");
+}
+
+.socialMedia-twitter {
+    width: 60px;
+    background-image: url("../assets/blue bird thing.svg");
+}
