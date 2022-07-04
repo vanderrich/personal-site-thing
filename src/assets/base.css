@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
 
 .centerChilds {
-    display: flex;
-    justify-content: center;
+    margin: auto;
     text-align: center;
 }
 
@@ -29,35 +28,40 @@ body {
 
 .socialMedia-discord {
     height: 55px;
-    background-image: url("./doscord.svg");
+    background-image: url("./images/doscord.svg");
 }
 
 .socialMedia-github {
-    background-image: url("./guthib.svg");
+    background-image: url("./images/guthib.svg");
 }
 
 .socialMedia-twitter {
     width: 60px;
-    background-image: url("./blue bird thing.svg");
-    }
-    
-    #socialMedias {
-        padding: 5px 0px;
-    }
-    
-    .thicc {
-        height: 1000px;
-    }
-    
-    #things a {
-        padding: 10px;
-        border-style: solid;
-        border-width: 1.5px;
-        border-radius: 10px;
-        text-decoration: none;
-    }
-    
-    #things a:hover {
-        background-color: white;
-        color: #36393F;
+    background-image: url("./images/blue bird thing.svg");
+}
+
+#socialMedias {
+    padding: 0px 0px 20px;
+}
+
+.thicc {
+    height: 1000px;
+}
+
+#things a {
+    padding: 10px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+#things a:hover,
+#things a:focus {
+    background-color: white;
+    color: #36393F;
+}
+
+.project figcaption {
+    font-size: 40px;
 }
