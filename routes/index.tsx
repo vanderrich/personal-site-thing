@@ -10,7 +10,7 @@ export default function Home() {
             </Head>
             <div class="centerChilds">
                 <div id="home">
-                    <img width="200" src="@\assets\images\baked_potat.png" class="pfp" />
+                    <img width="200" src="images\baked_potat.png" class="pfp" />
                     <h1>vanderrich#9982</h1>
                     <p>Your local Indonesian nerd/idiot</p>
                     <div id="socialMedias" class="centerChilds">
