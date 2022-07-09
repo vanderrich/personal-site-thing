@@ -10,7 +10,7 @@ export default function Projects() {
                 <link rel="stylesheet" href="base.css" />
             </Head>
             <div id="projects" class="centerChilds">
-                <Project projectName="Potato Bot" projectLink="https://potato-bot.netlify.app" />
+                <Project projectName="Potato Bot" projectLink="https://potato-bot.deno.dev" />
                 <Project projectName="Vanoah Games" projectLink="https://vanoah.netlify.app" />
             </div>
         </div>
