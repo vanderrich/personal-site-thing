@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
 
-.centerChilds {
+.centerChilds * {
     margin: auto;
     text-align: center;
 }
@@ -28,20 +28,20 @@ body {
 
 .socialMedia-discord {
     height: 55px;
-    background-image: url("./images/doscord.svg");
+    background-image: url("images/doscord.svg");
 }
 
 .socialMedia-github {
-    background-image: url("./images/guthib.svg");
+    background-image: url("images/guthib.svg");
 }
 
 .socialMedia-twitter {
     width: 60px;
-    background-image: url("./images/blue bird thing.svg");
+    background-image: url("images/blue bird thing.svg");
 }
 
 #socialMedias {
-    padding: 0px 0px 20px;
+    padding: 0px 0px 10px;
 }
 
 .thicc {
