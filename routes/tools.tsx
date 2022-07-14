@@ -32,7 +32,6 @@ export default function Projects() {
                 <p>NodeJS</p>
                 <p>VSCode</p>
                 <p>GitHub</p>
-                <p hidden>PornHub</p>
             </div>
         </div>
     )
