@@ -12,7 +12,6 @@ export default function Home() {
                 <div id="home">
                     <img width="200" src="images\bakedpotat.png" class="pfp" />
                     <h1>vanderrich#9982</h1>
-                    <p>Your local Indonesian nerd/idiot</p>
                     <div id="socialMedias" class="centerChilds">
                         <a class="socialMedia socialMedia-discord" href="https://discordapp.com/users/709950767670493275"></a>
                         <a class="socialMedia socialMedia-github" href="https://github.com/vanderrich"></a>
