@@ -27,7 +27,6 @@ body {
 }
 
 .socialMedia-discord {
-    height: 55px;
     background-image: url("images/doscord.svg");
 }
 
@@ -64,4 +63,8 @@ body {
 
 .project figcaption {
     font-size: 40px;
+}
+
+h1 {
+    font-size: 20px;
 }
