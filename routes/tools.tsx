@@ -21,6 +21,7 @@ export default function Projects() {
                 <p>Indonesian 🇮🇩</p>
                 <p>Chinese (simplified) 🇨🇳</p>
                 <p>French fr 🇫🇷 (learning)</p>
+                <p>Spanish 🇪🇸 (learning)<p>
             </div>
             <br />
             <div id="tools" class="centerChilds">
