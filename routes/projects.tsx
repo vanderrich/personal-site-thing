@@ -1,7 +1,7 @@
 import { Head } from "$fresh/runtime.ts";
 import Project from "../islands/Project.tsx";
 
-export default (
+export default () => (
     <main>
         <Head>
             <link rel="stylesheet" href="base.css" />

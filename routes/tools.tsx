@@ -1,6 +1,6 @@
 import { Head } from "$fresh/runtime.ts";
 
-export default (
+export default () => (
     <>
         <Head>
             <link rel="stylesheet" href="base.css" />
