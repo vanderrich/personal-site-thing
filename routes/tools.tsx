@@ -5,7 +5,7 @@ import Project from "../islands/Project.tsx";
 
 export default function Projects() {
     return (
-        <div id="tools">
+        <div>
             <Head>
                 <link rel="stylesheet" href="base.css" />
             </Head>
