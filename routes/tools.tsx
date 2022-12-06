@@ -1,9 +1,7 @@
-/** @jsx h */
-import { h } from "preact";
 import { Head } from "$fresh/runtime.ts";
 
 export default (
-    <main>
+    <>
         <Head>
             <link rel="stylesheet" href="base.css" />
         </Head>
@@ -20,19 +18,19 @@ export default (
                 <p>Indonesian 🇮🇩</p>
                 <p>Chinese 🇨🇳</p>
                 <p>French fr 🇫🇷 (learning)</p>
-                <p>Spanish 🇪🇸 (learning)<p>
-                </div>
-                    <br />
-                    <div id="tools" class="centerChilds">
-                        <h2>Tools</h2>
-                        <p>HTML CSS (yes they're not languages)</p>
-                        <p>Unity</p>
-                        <p>VueJS</p>
-                        <p>Discord.JS</p>
-                        <p>NodeJS</p>
-                        <p>VSCode</p>
-                        <p>GitHub</p>
-                    </div>
+                <p>Spanish 🇪🇸 (learning)</p>
             </div>
-    </main >
-);
+            <br />
+            <div id="tools" class="centerChilds">
+                <h2>Tools</h2>
+                <p>HTML CSS (yes they're not languages)</p>
+                <p>Unity</p>
+                <p>VueJS</p>
+                <p>Discord.JS</p>
+                <p>NodeJS</p>
+                <p>VSCode</p>
+                <p>GitHub</p>
+            </div>
+        </div>
+    </>
+)

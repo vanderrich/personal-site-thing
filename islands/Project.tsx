@@ -1,7 +1,3 @@
-/** @jsx h */
-import { h } from "preact";
-import { useState } from "preact/hooks";
-
 interface ProjectProps {
     projectName: string,
     projectLink: string,
