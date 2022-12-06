@@ -5,7 +5,7 @@ import Project from "../islands/Project.tsx";
 
 export default function Projects() {
     return (
-        <div>
+        <main>
             <Head>
                 <link rel="stylesheet" href="base.css" />
             </Head>
@@ -13,6 +13,6 @@ export default function Projects() {
                 <Project projectName="Potato Bot" projectLink="https://potato-bot.deno.dev" />
                 <Project projectName="Vanoah Games" projectLink="https://vanoah.netlify.app" />
             </div>
-        </div>
+        </main>
     )
 }

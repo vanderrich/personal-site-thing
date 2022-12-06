@@ -4,7 +4,7 @@ import { Head } from "$fresh/runtime.ts";
 
 export default function Home() {
     return (
-        <div>
+        <main>
             <Head>
                 <link rel="stylesheet" href="base.css" />
             </Head>
@@ -26,6 +26,6 @@ export default function Home() {
                     <p>stop stalking me</p>
                 </div>
             </div>
-        </div>
+        </main>
     );
 }
