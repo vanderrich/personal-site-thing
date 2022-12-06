@@ -2,12 +2,12 @@
 import { h } from "preact";
 import { Head } from "$fresh/runtime.ts";
 
-export default function Tools() {
-    return (
-        <main>
-            <Head>
-                <link rel="stylesheet" href="base.css" />
-            </Head>
+export default (
+    <main>
+        <Head>
+            <link rel="stylesheet" href="base.css" />
+        </Head>
+        <div>
             <div id="languages" class="centerChilds">
                 <h2>Languages</h2>
                 <h4>Programming Languages</h4>
@@ -18,7 +18,7 @@ export default function Tools() {
                 <h4>Irl Languages</h4>
                 <p>English 🇬🇧</p>
                 <p>Indonesian 🇮🇩</p>
-                <p>Chinese (simplified) 🇨🇳</p>
+                <p>Chinese 🇨🇳</p>
                 <p>French fr 🇫🇷 (learning)</p>
                 <p>Spanish 🇪🇸 (learning)<p>
                 </div>
@@ -33,6 +33,6 @@ export default function Tools() {
                         <p>VSCode</p>
                         <p>GitHub</p>
                     </div>
-                </main>
-                )
-}
+            </div>
+    </main >
+);
