@@ -16,11 +16,12 @@ export default function Projects() {
                 <p>JavaScript</p>
                 <p>C#</p>
                 <p>Python</p>
-                <h4>IRL Languages</h4>
-                <p>English</p>
-                <p>Indonesian</p>
-                <p>Mandarin (learning)</p>
-                <p>Hokkien/Fujianese (more of a dielect but meh)</p>
+                <h4>Irl Languages</h4>
+                <p>English 🇬🇧</p>
+                <p>Indonesian 🇮🇩</p>
+                <p>Chinese (simplified) 🇨🇳</p>
+                <p>French fr 🇫🇷 (learning)</p>
+                <p>Spanish 🇪🇸 (learning)<p>
             </div>
             <br />
             <div id="tools" class="centerChilds">
