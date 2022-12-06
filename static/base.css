@@ -39,6 +39,10 @@ body {
     background-image: url("images/blue bird thing.svg");
 }
 
+.socialMedia-wca {
+    background-image: url("images/wca.svg");
+}
+
 #socialMedias {
     padding: 0px 0px 10px;
 }
