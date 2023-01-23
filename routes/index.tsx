@@ -12,8 +12,8 @@ export default () => (
                 <div id="socialMedias" class="centerChilds">
                     <a class="socialMedia socialMedia-discord" href="https://discordapp.com/users/709950767670493275"></a>
                     <a class="socialMedia socialMedia-github" href="https://github.com/vanderrich"></a>
-                    <a class="socialMedia socialMedia-wca" href="https://www.worldcubeassociation.org/"></a>
-                    <a class="socialMedia socialMedia-twitter" href="https://youtu.be/cnVaL11hW4g"></a>
+                    <a class="socialMedia socialMedia-twitter" href="/twitter"></a>
+                    <a class="socialMedia socialMedia-of" href="/onlyfans"></a>
                 </div>
                 <div id="things" class="centerChilds">
                     <a href="/projects">Projects</a>
