@@ -43,6 +43,10 @@ body {
     background-image: url("images/onlyfans.svg");
 }
 
+.socialMedia-stackoverflow {
+    background-image: url("images/stackoverflow.svg");
+}
+
 #socialMedias {
     padding: 0px 0px 10px;
 }
