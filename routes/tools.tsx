@@ -14,11 +14,12 @@ export default () => (
                 <p>C#</p>
                 <p>Python</p>
                 <h4>Irl Languages</h4>
-                <p>English 🇬🇧</p>
-                <p>Indonesian 🇮🇩</p>
-                <p>Chinese 🇨🇳</p>
-                <p>French fr 🇫🇷 (learning)</p>
-                <p>Spanish 🇪🇸 (learning)</p>
+                <p>English gb 🇬🇧</p>
+                <p>Indonesian id 🇮🇩</p>
+                <p>Chinese cn 🇨🇳</p>
+                <p>French fr 🇫🇷</p>
+                <p>Spanish es 🇪🇸 (learning)</p>
+                <p>German de 🇩🇪 (learning)</p>
             </div>
             <br />
             <div id="tools" class="centerChilds">

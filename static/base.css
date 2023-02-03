@@ -47,6 +47,10 @@ body {
     background-image: url("images/stackoverflow.svg");
 }
 
+.socialMedia-snap {
+    background-image: url("images/snapchat.svg");
+}
+
 #socialMedias {
     padding: 0px 0px 10px;
 }
