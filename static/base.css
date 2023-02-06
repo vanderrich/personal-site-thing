@@ -49,6 +49,12 @@ body {
 
 .socialMedia-snap {
     background-image: url("images/snapchat.svg");
+    -webkit-animation-duration: 10s;
+    animation-duration: 10s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeOut;
+    animation-name: fadeOut;
 }
 
 #socialMedias {
@@ -79,4 +85,14 @@ body {
 
 h1 {
     font-size: 20px;
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
 }
