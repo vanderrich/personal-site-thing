@@ -57,6 +57,13 @@ body {
     animation-name: fadeOut;
 }
 
+.socialMedia-itch {
+    background-image: url("images/itch.svg");
+    padding-left: 10px;
+    height: 42px;
+    width: 45px;
+}
+
 #socialMedias {
     padding: 0px 0px 10px;
 }

@@ -19,14 +19,14 @@ export default () => {
                     <p>Kotlin</p>
 
                     <h4>Irl Languages</h4>
-                    <p><a href="https://youtu.be/I8KSAtos-dk">English gb 🇬🇧</a></p>
-                    <p><a href="https://youtu.be/7HkktBcIDzg">Indonesian id 🇮🇩</a></p>
-                    <p><a href="https://youtu.be/qGk4E9ss95s">Chinese cn 🇨🇳</a></p>
-                    <p><a href="https://youtu.be/vtNJMAyeP0s">French fr 🇫🇷</a></p>
-                    <p><a href="https://youtu.be/kJQP7kiw5Fk">Spanish es 🇪🇸 (learning)</a></p>
-                    <p><a href="https://youtu.be/ATlila3e9dM">German de 🇩🇪 (learning)</a></p>
-                    <p onClick={() => setPoland(true)}>{poland ? "Poland cant into space?" : "Polish pl 🇵🇱 (learning)"}</p>
-                    <p><a href="https://youtu.be/TpcKIasAHQ4">Albanian al 🇦🇱 (learning)</a></p>
+                    <p>English gb 🇬🇧</p>
+                    <p>Indonesian id 🇮🇩</p>
+                    <p>Chinese cn 🇨🇳</p>
+                    <p>French fr 🇫🇷</p>
+                    <p>Spanish es 🇪🇸 (learning probably)</p>
+                    <p>German de 🇩🇪 (learning maybe)</p>
+                    <p>Polish pl 🇵🇱 (learning maybe)</p>
+                    <p>Albanian al 🇦🇱 (learning maybe)</p>
                 </div>
                 <br />
                 <div id="tools" class="centerChilds">
