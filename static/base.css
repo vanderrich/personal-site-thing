@@ -51,7 +51,7 @@ body {
 
 .socialMedia-stackoverflow {
     background-image: url(images/stackoverflow.svg);
-    height: 60px;
+    width: 45px;
 }
 
 .socialMedia-itch {
