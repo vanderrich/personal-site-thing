@@ -29,6 +29,7 @@ body {
     width: 50px;
     height: 50px;
     background-size: cover;
+    margin: 0px 3px;
 }
 
 .socialMedia:hover,
@@ -57,8 +58,8 @@ body {
 .socialMedia-itch {
     background-image: url(images/itch.svg);
     padding-left: 10px;
-    height: 42px;
-    width: 45px;
+    height: 46px;
+    width: 50px;
 }
 
 #socialMedias {
