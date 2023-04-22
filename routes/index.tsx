@@ -7,8 +7,8 @@ export default () => (
         </Head>
         <div class="centerChilds">
             <div id="home">
-                <img width="200" src={asset("images\bakedpotat.png")} class="pfp" alt="insert funni img here" />
-                <h1>vanderrich#9982</h1>
+                <h1>Vanderrich</h1>
+                <h3>Lorem Ipsum</h3>
                 <div id="socialMedias" class="centerChilds">
                     <a class="socialMedia socialMedia-twitter" href="https://twitter.com/vanderrich1"></a>
                     <a class="socialMedia socialMedia-discord" href="https://discordapp.com/users/709950767670493275"></a>
@@ -177,5 +177,5 @@ export default () => (
                 <p>wow so unpredictable</p>
             </div>
         </div>
-    </main>
+    </main >
 );

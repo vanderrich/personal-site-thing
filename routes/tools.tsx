@@ -1,8 +1,6 @@
 import { Head } from "$fresh/runtime.ts";
-import { useState } from "preact/hooks";
 
 export default () => {
-    const [poland, setPoland] = useState(false)
     return (
         <>
             <Head>
@@ -21,12 +19,8 @@ export default () => {
                     <h4>Irl Languages</h4>
                     <p>English gb 🇬🇧</p>
                     <p>Indonesian id 🇮🇩</p>
-                    <p>Chinese cn 🇨🇳</p>
-                    <p>French fr 🇫🇷</p>
-                    <p>Spanish es 🇪🇸 (learning probably)</p>
-                    <p>German de 🇩🇪 (learning maybe)</p>
-                    <p>Polish pl 🇵🇱 (learning maybe)</p>
-                    <p>Albanian al 🇦🇱 (learning maybe)</p>
+                    <p>Chinese cn 🇨🇳 (kinda fluent)</p>
+                    <p>French fr 🇫🇷 (not that fluent rn)</p>
                 </div>
                 <br />
                 <div id="tools" class="centerChilds">

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 
 .centerChilds * {
     margin: auto;
@@ -21,6 +21,7 @@ body {
 * {
     color: aliceblue;
     font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 500;
 }
 
 .socialMedia {
@@ -36,28 +37,24 @@ body {
 }
 
 .socialMedia-discord {
-    background-image: url("images/doscord.svg");
+    background-image: url(@/images/discord.svg);
 }
 
 .socialMedia-github {
-    background-image: url("images/guthib.svg");
+    background-image: url(/images/github.svg);
 }
 
 .socialMedia-twitter {
     width: 60px;
-    background-image: url("images/blue bird thing.svg");
-}
-
-.socialMedia-of {
-    background-image: url("images/onlyfans.svg");
+    background-image: url(images/twitter.svg);
 }
 
 .socialMedia-stackoverflow {
-    background-image: url("images/stackoverflow.svg");
+    background-image: url(images/stackoverflow.svg);
 }
 
 .socialMedia-itch {
-    background-image: url("images/itch.svg");
+    background-image: url(images/itch.svg);
     padding-left: 10px;
     height: 42px;
     width: 45px;
@@ -89,9 +86,17 @@ body {
     font-size: 40px;
 }
 
+
 h1 {
-    font-size: 20px;
+    font-size: 40px;
+    font-weight: 700;
 }
+
+h3 {
+    font-weight: 200;
+    font-size: 15px;
+}
+
 
 @keyframes fadeOut {
     0% {
