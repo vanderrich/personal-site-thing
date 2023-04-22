@@ -9,6 +9,15 @@ body {
     background-color: #36393F;
 }
 
+#home * {
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
+
 * {
     color: aliceblue;
     font-family: 'IBM Plex Sans', sans-serif;
@@ -45,16 +54,6 @@ body {
 
 .socialMedia-stackoverflow {
     background-image: url("images/stackoverflow.svg");
-}
-
-.socialMedia-snap {
-    background-image: url("images/snapchat.svg");
-    -webkit-animation-duration: 10s;
-    animation-duration: 10s;
-    -webkit-animation-fill-mode: both;
-    animation-fill-mode: both;
-    -webkit-animation-name: fadeOut;
-    animation-name: fadeOut;
 }
 
 .socialMedia-itch {
@@ -101,5 +100,15 @@ h1 {
 
     100% {
         opacity: 0;
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
     }
 }

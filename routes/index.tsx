@@ -10,17 +10,11 @@ export default () => (
                 <img width="200" src={asset("images\bakedpotat.png")} class="pfp" alt="insert funni img here" />
                 <h1>vanderrich#9982</h1>
                 <div id="socialMedias" class="centerChilds">
-                    <a class="socialMedia socialMedia-snap" href="https://www.snapchat.com/add/vanderrich23"></a>
-                    <a class="socialMedia socialMedia-of" href="/of"></a>
                     <a class="socialMedia socialMedia-twitter" href="https://twitter.com/vanderrich1"></a>
                     <a class="socialMedia socialMedia-discord" href="https://discordapp.com/users/709950767670493275"></a>
                     <a class="socialMedia socialMedia-github" href="https://github.com/vanderrich"></a>
                     <a class="socialMedia socialMedia-stackoverflow" href="https://stackoverflow.com/users/14170200/vanderrich"></a>
                     <a class="socialMedia socialMedia-itch" href="https://vanderrich.itch.io"></a>
-                    <a class="socialMedia"></a>
-                </div>
-                <div id="things" class="centerChilds">
-                    <a href="/tools">Tools and Languages</a>
                 </div>
                 <div class="thicc" />
                 <p>stop stalking me</p>
