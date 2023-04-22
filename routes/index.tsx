@@ -10,6 +10,7 @@ export default () => (
                 <h1>Vanderrich</h1>
                 <h3>Lorem Ipsum</h3>
                 <div id="socialMedias" class="centerChilds">
+                    <a class="socialMedia">e</a>
                     <a class="socialMedia socialMedia-twitter" href="https://twitter.com/vanderrich1"></a>
                     <a class="socialMedia socialMedia-discord" href="https://discordapp.com/users/709950767670493275"></a>
                     <a class="socialMedia socialMedia-github" href="https://github.com/vanderrich"></a>

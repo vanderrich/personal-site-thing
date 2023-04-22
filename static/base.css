@@ -51,13 +51,14 @@ body {
 
 .socialMedia-stackoverflow {
     background-image: url(images/stackoverflow.svg);
+    margin-right: 10px;
+    margin-left: 5px
 }
 
 .socialMedia-itch {
     background-image: url(images/itch.svg);
     padding-left: 10px;
-    height: 42px;
-    width: 45px;
+    height: 60px;
 }
 
 #socialMedias {
