@@ -37,11 +37,11 @@ body {
 }
 
 .socialMedia-discord {
-    background-image: url(@/images/discord.svg);
+    background-image: url(images/discord.svg);
 }
 
 .socialMedia-github {
-    background-image: url(/images/github.svg);
+    background-image: url(images/github.svg);
 }
 
 .socialMedia-twitter {
