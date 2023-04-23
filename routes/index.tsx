@@ -10,12 +10,14 @@ export default () => (
                 <h1>Vanderrich</h1>
                 <h3>Lorem Ipsum</h3>
                 <div id="socialMedias" class="centerChilds">
-                    <a class="socialMedia socialMedia-twitter" href="https://twitter.com/vanderrich1"></a>
-                    <a class="socialMedia socialMedia-discord" href="https://discordapp.com/users/709950767670493275"></a>
-                    <a class="socialMedia socialMedia-github" href="https://github.com/vanderrich"></a>
-                    <a class="socialMedia socialMedia-stackoverflow" href="https://stackoverflow.com/users/14170200/vanderrich"></a>
-                    <a class="socialMedia socialMedia-itch" href="https://vanderrich.itch.io"></a>
+                    <a class="socialMedia socialMedia-twitter" href="https://twitter.com/vanderrich1" />
+                    <a class="socialMedia socialMedia-discord" href="https://discordapp.com/users/709950767670493275" />
+                    <a class="socialMedia socialMedia-github" href="https://github.com/vanderrich" />
+                    <a class="socialMedia socialMedia-stackoverflow" href="https://stackoverflow.com/users/14170200/vanderrich" />
+                    <a class="socialMedia socialMedia-itch" href="https://vanderrich.itch.io" />
                 </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                <div id="things"><a>Languages</a></div>
                 <div class="thicc" />
                 <p>stop stalking me</p>
                 <div class="thicc" />
