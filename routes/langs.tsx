@@ -17,10 +17,10 @@ export default () => {
                     <p>Kotlin</p>
 
                     <h4>Irl Languages</h4>
-                    <p>English gb 🇬🇧</p>
-                    <p>Indonesian id 🇮🇩</p>
-                    <p>Chinese cn 🇨🇳 (kinda fluent)</p>
-                    <p>French fr 🇫🇷 (not that fluent rn)</p>
+                    <p>English 🇬🇧/🇺🇲</p>
+                    <p>Indonesian 🇮🇩</p>
+                    <p>Chinese 🇨🇳</p>
+                    <p>French 🇫🇷</p>
                 </div>
                 <br />
                 <div id="tools" class="centerChilds">
